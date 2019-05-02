@@ -5,13 +5,13 @@ A respeito da organização.
 
 {Chat}{categoria}{assunto}
 
-Exemplo: tg/TI/Angular.md
+Exemplo: wp/TI/Python.md
 
 ## Grupos para WhatsApp
 
-* [TI](tg/TI/Readme.md)
+* [TI](wp/TI/Readme.md)
 * 
 
 ## Grupos para Telegram
-* [TI](wp/TI/Readme.md)
+* [TI](tg/TI/Readme.md)
 * 
